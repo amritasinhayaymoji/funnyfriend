@@ -78,6 +78,11 @@ This project is deployed using **free-tier services only** (Render & GitHub). Du
 
 No premium tools or paid services were used — this keeps the app lightweight, accessible, and cost-free to run and scale.
 
+## 👩‍💻 Created By
+
+Amrita Sinha
+📧 Email: amritasinha.yaymoji@gmail.com
+
 ## 📦 Installation (for judges/testers)
 
 ```bash
@@ -86,3 +91,6 @@ cd funnyfriend
 pip install -r requirements.txt
 python app.py
 # Then open in browser: http://localhost:8000
+
+
+
