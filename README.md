@@ -4,7 +4,7 @@ Welcome to Funny Friend Web – an emotion-aware AI companion that turns mood in
 Built for the Google Home API Developer Challenge 2025, this app combines laughter, empathy, Google map and smart home features – all inside your browser.
 
 ## 🎯 Live Demo
-🔗 [Try the Web App on Render](https://funnyfriend.onrender.com/)  
+🔗 [Try the Web App on Render](https://funnyfriend-bs5j.onrender.com/)  
 📽️ [Watch Full Demo Video on YouTube](https://youtube.com/your-demo-link)
 
 ---
