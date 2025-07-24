@@ -1,11 +1,17 @@
 # Funny Friend: Yaymoji 🤖 — A Smart Emotion-Aware Companion
 
 Official Submission – Google for Developers API Challenge 2025
+
 Welcome to Funny Friend Web — a voice-enabled, emotion-aware browser assistant that brings empathy, smart home control, and location help together.
+
 This app is built for people who are elderly, alone, or unwell, and combines:
+
 🧠 Emotion-aware chat (via voice + text)
+
 🗣️ Voice assistant for accessibility
+
 🏠 Uses Google Home API for smart device control (fan, AC, party mode, TV, etc.)
+
 🗺️ Uses Google Maps API to suggest emotion-based locations (doctors, spas, parks, gyms)
 
 Designed to work entirely in the browser, this version avoids complex system permissions — but still offers deep care, convenience, and connection through voice and empathy.
@@ -64,11 +70,11 @@ Designed to work entirely in the browser, this version avoids complex system per
 
 As part of our long-term vision, we’ve also built a backend-only prototype that brings Funny Friend closer to real-world smart devices and physical AI companions.
 
-🔗 GitHub Repo: funnyfriend_video
+🔗 GitHub Repo: https://github.com/amritasinhayaymoji/funnyfriend_video.git
 
 🎥 What’s Shown in the Demo:
 
-🧠 Real-time emotion detection from live webcam (DeepFace-based)
+🧠 Real-time emotion detection from live webcam 
 
 🗣️ LLM-powered AI chat (via OpenRouter) triggered by your detected mood
 
