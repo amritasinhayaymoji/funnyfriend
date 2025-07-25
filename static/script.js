@@ -401,7 +401,7 @@ function runSmartCommand(text) {
             speak("TV is now muted");
             box.innerHTML += `<p>🔇 TV muted</p>`;
           } else {
-            toggleNetflixLogo(action === "on");
+            toggletvlogo(action === "on");
             box.innerHTML += `<p>📺 TV turned ${action.toUpperCase()}</p>`;
             speak(`TV is ${action}`);
           }
@@ -514,8 +514,8 @@ function animateAC(on) {
 }
 
 // ✅ TV Animation Control Function (Glitch-Free)
-function toggleNetflixLogo(on) {
-  const logo = document.getElementById("netflixLogo");
+function toggletvlogo(on) {
+  const logo = document.getElementById("tvlogo");
   if (!logo) return;
 
   if (on) {

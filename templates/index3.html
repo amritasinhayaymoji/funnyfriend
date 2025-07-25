@@ -175,7 +175,7 @@
 <!-- ❄️ AC Floating Animation Group (Generated via JS) -->
 <div class="device-float-group" id="acGroup"></div>
 
-<div id="netflixLogo">NETFLIX</div>
+<div id="tvlogo">TV</div>
 
 <div id="verticalCurtain"></div>
 <div id="musicNotesGroup"></div>
@@ -412,8 +412,8 @@ text-shadow: 0 0 25px rgba(180, 235, 255, 0.9);
   100% { transform: translateY(100vh); opacity: 0; }
 }
 /* ✅ tv Animation */
-/* ✅ Netflix Logo Animation (Glitch-Free) */
-#netflixLogo {
+
+#tvlogo {
   display: none;  /* Prevent flash on load */
   position: fixed;
   top: 50%;
@@ -429,7 +429,7 @@ text-shadow: 0 0 25px rgba(180, 235, 255, 0.9);
   transition: opacity 0.5s ease, transform 0.5s ease;
 }
 
-#netflixLogo.visible {
+#tvlogo.visible {
   display: block; /* Show when active */
   opacity: 1;
   transform: translate(-50%, -50%) scale(1.1);
