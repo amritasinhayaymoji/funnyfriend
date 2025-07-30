@@ -82,7 +82,6 @@ As part of our long-term vision, we’ve also built a backend-only prototype tha
 
 🎯 Runs fully in Python backend — designed for Raspberry Pi, IoT devices, and smart mirrors
 
-⚠️ Note: This version is not submitted for the Google Home API Developer Challenge but is featured in the YouTube video to show what’s possible next.
 ---
 ## 📷 Why Not in Browser?
 
